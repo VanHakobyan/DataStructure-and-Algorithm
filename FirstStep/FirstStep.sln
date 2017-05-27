@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStep", "FirstStep\Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsBackWords", "StringsBookWords\StringsBackWords.csproj", "{1580F951-95C3-4501-9609-FF01A92753C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{A3EC6918-6FC9-49E8-B402-CF8788F391BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One100", "One100\One100.csproj", "{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1580F951-95C3-4501-9609-FF01A92753C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1580F951-95C3-4501-9609-FF01A92753C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1580F951-95C3-4501-9609-FF01A92753C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EC6918-6FC9-49E8-B402-CF8788F391BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EC6918-6FC9-49E8-B402-CF8788F391BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EC6918-6FC9-49E8-B402-CF8788F391BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EC6918-6FC9-49E8-B402-CF8788F391BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
