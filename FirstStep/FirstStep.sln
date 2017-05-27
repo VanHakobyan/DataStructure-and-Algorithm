@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One100", "One100\One100.csproj", "{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{A4B42427-460D-474D-86F9-255F6E166475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05CC5D28-0DDA-4BB3-8B99-E18C89B314E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B42427-460D-474D-86F9-255F6E166475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B42427-460D-474D-86F9-255F6E166475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B42427-460D-474D-86F9-255F6E166475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B42427-460D-474D-86F9-255F6E166475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
