@@ -14,7 +14,7 @@ namespace BinarySearch
             {
                 return -1;
             }
-            int mid = begin + (end - a.Length) / 2;
+            int mid = begin + (end - begin) / 2;
             if (a[mid] == n)
             {
                 return mid;
@@ -25,7 +25,7 @@ namespace BinarySearch
             }
             else
             {
-                return BinSearch(a, begin, mid - 1, n);
+                return BinSearch(a, mid + 1,end, n);
             }
         }
         static void Main(string[] args)
