@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HannoTower", "HannoTawer\HannoTower.csproj", "{D4338E44-C896-4D58-8E6B-7BC525CF087D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4338E44-C896-4D58-8E6B-7BC525CF087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4338E44-C896-4D58-8E6B-7BC525CF087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4338E44-C896-4D58-8E6B-7BC525CF087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4338E44-C896-4D58-8E6B-7BC525CF087D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

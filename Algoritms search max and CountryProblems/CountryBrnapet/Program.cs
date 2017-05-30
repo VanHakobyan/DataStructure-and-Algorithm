@@ -18,7 +18,7 @@ namespace CountryBrnapet
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(CountryArdz(3,2));
+            Console.WriteLine(CountryArdz(30,20));
         }
     }
 }
