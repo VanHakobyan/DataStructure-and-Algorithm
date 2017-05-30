@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchMaxElem", "Algoritms search max and CountryProblems\SearchMaxElem.csproj", "{A25A817B-8EB1-4996-B797-F9C1C43665C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryBrnapet", "CountryBrnapet\CountryBrnapet.csproj", "{B3070DCB-125A-4A98-92E1-CE8F670296DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25A817B-8EB1-4996-B797-F9C1C43665C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25A817B-8EB1-4996-B797-F9C1C43665C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25A817B-8EB1-4996-B797-F9C1C43665C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25A817B-8EB1-4996-B797-F9C1C43665C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3070DCB-125A-4A98-92E1-CE8F670296DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3070DCB-125A-4A98-92E1-CE8F670296DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3070DCB-125A-4A98-92E1-CE8F670296DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3070DCB-125A-4A98-92E1-CE8F670296DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
