@@ -40,6 +40,7 @@ namespace BinarySearchIterative
             Console.WriteLine(BinSearch(a, 2));//first
             Console.WriteLine(BinSearch(a, 48));//midle
             Console.WriteLine(BinSearch(a, 8));//404
+            //O(log(n)) evelution in binary search
 
         }
     }
