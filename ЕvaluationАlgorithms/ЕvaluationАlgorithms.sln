@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchIterative", "BinarySearchIterative\BinarySearchIterative.csproj", "{D6B6E0BD-E1D4-42F0-8CD4-0DE4C022AF89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{0BBEB06A-CA5B-4683-8C6D-A35A6FB4A0A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D6B6E0BD-E1D4-42F0-8CD4-0DE4C022AF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6B6E0BD-E1D4-42F0-8CD4-0DE4C022AF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6B6E0BD-E1D4-42F0-8CD4-0DE4C022AF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBEB06A-CA5B-4683-8C6D-A35A6FB4A0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBEB06A-CA5B-4683-8C6D-A35A6FB4A0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBEB06A-CA5B-4683-8C6D-A35A6FB4A0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBEB06A-CA5B-4683-8C6D-A35A6FB4A0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
