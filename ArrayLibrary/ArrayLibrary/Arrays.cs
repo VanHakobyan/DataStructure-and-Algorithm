@@ -11,7 +11,7 @@ namespace ArrayLibrary
         public static int[] CreateArray()
         {
             Random rn = new Random();
-            int[] array = new int[rn.Next(10, 100)];
+            int[] array = new int[rn.Next(0, 100)];
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = rn.Next(0, 100);
@@ -20,7 +20,7 @@ namespace ArrayLibrary
         }
         public static void print(int[] array)
         {
-            for (int i = 0; i < array.Length-2; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 Console.Write(array[i] + " , ");
             }
