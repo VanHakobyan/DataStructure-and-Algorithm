@@ -12,7 +12,7 @@ namespace ArrayLibrary
         {
             Random rn = new Random();
             int[] array = new int[rn.Next(10, 100)];
-            for (int i = 0; i < array.Length - 1; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 array[i] = rn.Next(0, 100);
             }
@@ -20,7 +20,7 @@ namespace ArrayLibrary
         }
         public static void print(int[] array)
         {
-            for (int i = 0; i < array.Length - 1; i++)
+            for (int i = 0; i < array.Length-2; i++)
             {
                 Console.Write(array[i] + " , ");
             }
