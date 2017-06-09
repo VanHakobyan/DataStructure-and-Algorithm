@@ -8,6 +8,10 @@
 * [Quick](https://github.com/VanHakobyan/DatastructureAndAlgorithm/blob/master/SortingAlgoritm/SortingLibrary/Quick.cs)
 * [Selection](https://github.com/VanHakobyan/DatastructureAndAlgorithm/blob/master/SortingAlgoritm/SortingLibrary/Selection.cs)
 
+#### Download all library
+
+* (Download)[https://github.com/VanHakobyan/DatastructureAndAlgorithm/raw/master/SortingAlgoritm/SortingLibrary.rar]
+
 ### About :pencil2:
 
 * Visual Studio community 2017 :closed_book:
