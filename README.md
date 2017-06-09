@@ -10,7 +10,7 @@
 
 #### Download all library
 
-* (Download)[https://github.com/VanHakobyan/DatastructureAndAlgorithm/raw/master/SortingAlgoritm/SortingLibrary.rar]
+* [Download](https://github.com/VanHakobyan/DatastructureAndAlgorithm/raw/master/SortingAlgoritm/SortingLibrary.rar)
 
 ### About :pencil2:
 
