@@ -7,3 +7,8 @@
 * [Merge](https://github.com/VanHakobyan/DatastructureAndAlgorithm/blob/master/SortingAlgoritm/SortingLibrary/Merge.cs)
 * [Quick](https://github.com/VanHakobyan/DatastructureAndAlgorithm/blob/master/SortingAlgoritm/SortingLibrary/Quick.cs)
 * [Selection](https://github.com/VanHakobyan/DatastructureAndAlgorithm/blob/master/SortingAlgoritm/SortingLibrary/Selection.cs)
+
+### About :pencil2:
+
+* Visual Studio community 2017 :closed_book:
+* C# 7.0 .NET Framework 4.6 :notebook_with_decorative_cover:
