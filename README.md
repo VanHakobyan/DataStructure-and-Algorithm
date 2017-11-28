@@ -12,7 +12,10 @@
 
 * [Download](https://github.com/VanHakobyan/DatastructureAndAlgorithm/raw/master/SortingAlgoritm/SortingLibrary.rar)
 
+#### Generic implementation
+
+[All any type sorting algorithm](https://github.com/VanHakobyan/DataStructure-and-Algorithm/tree/master/SortingGenericAlgorithm)
 ### About :pencil2:
 
-* Visual Studio community 2017 :closed_book:
+* Visual Studio Enterprise 2017 :closed_book:
 * C# 7.0 .NET Framework 4.6 :notebook_with_decorative_cover:
