@@ -49,31 +49,25 @@ namespace Three
         public void PrintPreOrder()
         {
             Console.WriteLine(element); // Node
-            if (left != null)
-                left.PrintPreOrder(); // Left
-            if (right != null)
-                right.PrintPreOrder(); // Right
+            left?.PrintPreOrder(); // Left
+            right?.PrintPreOrder(); // Right
         }
 
 
         // Print tree rooted at current node using postorder traversal.
         public void PrintPostOrder()
         {
-            if (left != null)
-                left.PrintPostOrder(); // Left
-            if (right != null)
-                right.PrintPostOrder(); // Right
+            left?.PrintPostOrder(); // Left
+            right?.PrintPostOrder(); // Right
             Console.WriteLine(element); // Node
         }
 
         // Print tree rooted at current node using inorder traversal.
         public void PrintInOrder()
         {
-            if (left != null)
-                left.PrintInOrder(); // Left
+            left?.PrintInOrder(); // Left
             Console.WriteLine(element); // Node
-            if (right != null)
-                right.PrintInOrder(); // Right
+            right?.PrintInOrder(); // Right
         }
 
 
