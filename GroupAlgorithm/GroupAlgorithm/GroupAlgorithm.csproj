@@ -40,6 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Graph.cs" />
+    <Compile Include="GraphException.cs" />
+    <Compile Include="Hzip.cs" />
+    <Compile Include="IllegalValueException.cs" />
+    <Compile Include="IntCell.cs" />
+    <Compile Include="IPriorityQueue.cs" />
+    <Compile Include="IQueue.cs" />
+    <Compile Include="IStack.cs" />
+    <Compile Include="ItemNotFoundException.cs" />
+    <Compile Include="Josephus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SortedLinkedList.cs" />
     <Compile Include="SplayTree.cs" />
