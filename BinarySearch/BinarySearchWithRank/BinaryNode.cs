@@ -1,6 +1,5 @@
 namespace BinarySearchWithRank
 {
-    // Basic node stored in unbalanced binary search trees
     public class BinaryNode<AnyType>
     {
         // Constructor
@@ -10,8 +9,8 @@ namespace BinarySearchWithRank
             left = right = null;
         }
 
-        internal AnyType element;                // The data in the node
-        internal BinaryNode<AnyType> left;      // Left child
-        internal BinaryNode<AnyType> right;     // Right child
+        internal AnyType element;               
+        internal BinaryNode<AnyType> left;     
+        internal BinaryNode<AnyType> right;    
     }
 }
